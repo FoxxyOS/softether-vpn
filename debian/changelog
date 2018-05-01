@@ -1,0 +1,24 @@
+softether-vpn (0:4.22.9634-0foxxy2) testing; urgency=medium
+
+  * Fix empty line in init script.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Mon, 17 Jul 2017 14:51:12 +0200
+
+softether-vpn (0:4.22.9634-0foxxy1) testing; urgency=medium
+
+  * Update dependencies for Debian 9.
+  * Fix sslv3 missing method (see d/patches/00-fix-sslv3_method.patch).
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Mon, 17 Jul 2017 12:46:53 +0200
+
+softether-vpn (0:4.22.9634-0foxxy0) testing; urgency=medium
+
+  * New upstream release.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Thu, 13 Jul 2017 02:01:53 +0200
+
+softether-vpn (0:4.04.9412-rtm) unstable; urgency=low
+
+  * Testing debianization
+
+ -- Dmitry Orlov <me@mosquito.su>  Tue, 4 Feb 2014 20:24:43 +0000
